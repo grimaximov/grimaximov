@@ -6,12 +6,12 @@ I'm a web developer. Programming is not only a job for me, but also a hobby. I l
 
 ### Languages and tools
 
-![PHP](https://img.shields.io/badge/PHP-<COLOR>)
-![MySQL](https://img.shields.io/badge/MySQL-<COLOR>)
-![JavaScript](https://img.shields.io/badge/JavaScript-orange)
-![HTML](https://img.shields.io/badge/HTML-blue)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![SASS](https://img.shields.io/badge/SASS-blue)
+![PHP](https://img.shields.io/badge/PHP-<COLOR>?style=plastic&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-<COLOR>?style=plastic&logo=MySQL)
+![JavaScript](https://img.shields.io/badge/JavaScript-orange?style=plastic&logo=Javascript)
+![HTML](https://img.shields.io/badge/HTML-blue?style=plastic&logo=HTML)
+![CSS](https://img.shields.io/badge/CSS-blue?style=plastic&logo=css)
+![SASS](https://img.shields.io/badge/SASS-blue?style=plastic&logo=sass)
 
 
 
