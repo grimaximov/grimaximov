@@ -14,6 +14,5 @@ I'm a web developer. Programming is not only a job for me, but also a hobby. I l
 ![SASS](https://img.shields.io/badge/SASS-blue)
 
 
-PHP, MySQL, JavaScript, HTML, CSS, SASS  
 
 [Facebook](https://www.facebook.com/grimaximov)
