@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm a web developer. Programming is not only a job for me, but also a hobby. I like to make mistakes and look for solutions to hard challenges.
+Full-stack web developer. More back-end than front-end. Write on PHP, JavaScript. I like write on native languages.
 
 ### Languages and tools
 
